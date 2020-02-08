@@ -26,3 +26,5 @@ Support 2 (S2) = P  -  (High  -  Low)
 Resistance 1 (R1) = (P x 2) - Low
 
 Resistance 2 (R2) = P + (High  -  Low)
+# Why Use
+Pivot Points offer chartists a methodology to determine price direction and then set support and resistance levels. Price direction is determined by looking at the current period's price action relative to the pivot point: starting above or below the pivot point, or crossing it in either direction during trading. The set support and resistance points come into play after price direction has been determined. While originally designed for floor traders, the concepts behind Pivot Points can be applied across various timeframes.
